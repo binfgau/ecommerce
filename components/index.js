@@ -4,4 +4,4 @@ export { default as Navbar } from './Navbar';
 export { default as Product } from './Product';
 export { default as HeroBanner } from './HeroBanner';
 export { default as FooterBanner } from './FooterBanner';
-export { default as Card } from './Card';
+export { default as Cart } from './Cart';
